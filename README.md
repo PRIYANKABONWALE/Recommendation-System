@@ -11,8 +11,15 @@ Mentor:- Neela Santhosh Kumar
 
 #OUTPUT- Pivot the data to create a User-Item matrix ![Image](https://github.com/user-attachments/assets/8bb11a06-ac7a-4e6e-9d14-237c2bb2ce5
 
-Calculate cosine similarity between users Image
+Calculate cosine similarity between users 
 
+User Similarity Matrix:
+User         A         B         C         D
+User                                        
+A     1.000000  0.101547  0.472985  0.414757
+B     0.101547  1.000000  0.810922  0.780588
+C     0.472985  0.810922  1.000000  0.537103
+D     0.414757  0.780588  0.537103  1.000000
 
 
 Predicted Ratings:
