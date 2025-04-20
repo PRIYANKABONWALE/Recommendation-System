@@ -32,3 +32,8 @@ D     14.000000   6.046504  12.000000
 
 Get top-2 recommendations for each user Image
 
+Top-2 Recommendations for Each User:
+User A: ['Item2', 'Item1']
+User B: ['Item3', 'Item1']
+User C: ['Item3', 'Item2']
+User D: ['Item1', 'Item3']
