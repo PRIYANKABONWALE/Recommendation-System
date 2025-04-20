@@ -13,7 +13,15 @@ Mentor:- Neela Santhosh Kumar
 
 Calculate cosine similarity between users Image
 
-Predict ratings Image
+
+
+Predicted Ratings:
+Item      Item1      Item2      Item3
+User                                 
+A     15.000000  23.000000  10.796951
+B     14.000000   4.781765  74.000000
+C      9.204904  13.000000  19.000000
+D     14.000000   6.046504  12.000000
 
 Get top-2 recommendations for each user Image
 
